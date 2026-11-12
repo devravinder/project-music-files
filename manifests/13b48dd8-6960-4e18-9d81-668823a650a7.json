@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "13b48dd8-6960-4e18-9d81-668823a650a7",
+  "media": {
+    "name": "Alakh_Niranjan_128KBPS.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 6692619,
+    "sha256": "25cb2c754cb143639b39056fe93cc1308994380fcfc05904855ea80024375b47",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/13/13b48dd8-6960-4e18-9d81-668823a650a7/media.0",
+        "bytes": 6692619,
+        "sha": "c66734e9f6dc00dc8ba54cee176c09849f7608f7"
+      }
+    ]
+  }
+}
