@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "72babf25-dc9d-4386-b275-36091019965f",
+  "media": {
+    "name": "Narayan japna ni.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 6343512,
+    "sha256": "9e4d95c08869daf19e8847de2ee9b196cb9cd9522bf4bab0883c02b6c18c48d7",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/72/72babf25-dc9d-4386-b275-36091019965f/media.0",
+        "bytes": 6343512,
+        "sha": "b2958b887f2aaaf96b531c71f578576058b11cfb"
+      }
+    ]
+  }
+}

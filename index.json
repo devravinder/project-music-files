@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 421130255,
+      "usedBytes": 427473767,
       "full": false
     }
   ],
@@ -1008,8 +1008,22 @@
       "addedAt": "2026-11-12T08:30:24.850Z",
       "updatedAt": "2026-11-12T08:30:24.850Z",
       "manifest": "manifests/e9c0cf33-ef2e-482d-aa7e-1fc44fedd5d6.json"
+    },
+    {
+      "id": "72babf25-dc9d-4386-b275-36091019965f",
+      "kind": "audio",
+      "title": "Narayan japna ni",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 642,
+      "mime": "audio/mpeg",
+      "bytes": 6343512,
+      "sha256": "9e4d95c08869daf19e8847de2ee9b196cb9cd9522bf4bab0883c02b6c18c48d7",
+      "addedAt": "2026-11-12T08:30:24.719Z",
+      "updatedAt": "2026-11-12T08:30:24.719Z",
+      "manifest": "manifests/72babf25-dc9d-4386-b275-36091019965f.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:48:34.803Z"
+  "updatedAt": "2026-11-12T08:48:49.134Z"
 }
