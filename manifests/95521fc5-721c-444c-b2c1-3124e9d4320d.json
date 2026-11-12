@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "95521fc5-721c-444c-b2c1-3124e9d4320d",
+  "media": {
+    "name": "swagatham krishnaa saranagatham Krishna.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 9504528,
+    "sha256": "a84e5bd18db292fd3395f1cf7da2afc2dcd38c7673a3be2775f322490cb2583f",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/95/95521fc5-721c-444c-b2c1-3124e9d4320d/media.0",
+        "bytes": 9504528,
+        "sha": "fec410b3113d6b3ca4aabbe5a29178d97545e55e"
+      }
+    ]
+  }
+}
