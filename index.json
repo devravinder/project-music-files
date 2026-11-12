@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 156093486,
+      "usedBytes": 161087046,
       "full": false
     }
   ],
@@ -350,8 +350,22 @@
       "addedAt": "2026-11-12T08:30:25.792Z",
       "updatedAt": "2026-11-12T08:30:25.792Z",
       "manifest": "manifests/7b13b835-202f-4938-b828-278b5b858375.json"
+    },
+    {
+      "id": "fde0ff1c-656d-40dc-9d66-284dcb153866",
+      "kind": "audio",
+      "title": "06 - Cheli Chamaku -(www.SenSongsMp3.co)",
+      "artist": "Adnan Sami, Anushka, Swetha",
+      "album": "Aadavari Matalaku Ardhale Verule (2007)",
+      "duration": 309,
+      "mime": "audio/mpeg",
+      "bytes": 4973065,
+      "sha256": "c60eb6dbb722cda897677eed8b46a5657e6bca12d2f595b5ef22f6d844989141",
+      "addedAt": "2026-11-12T08:30:25.480Z",
+      "updatedAt": "2026-11-12T08:30:25.480Z",
+      "manifest": "manifests/fde0ff1c-656d-40dc-9d66-284dcb153866.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:37:14.135Z"
+  "updatedAt": "2026-11-12T08:37:26.116Z"
 }
