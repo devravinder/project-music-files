@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "542954ca-43b5-4fd0-abf6-13668bbaeef3",
+  "media": {
+    "name": "Jalsa-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4243260,
+    "sha256": "7b05422397371119a16feac5d62db165833eeb5545d9a58dd34be541f0d5803d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/54/542954ca-43b5-4fd0-abf6-13668bbaeef3/media.0",
+        "bytes": 4243260,
+        "sha": "82dbd9f1c1c0833db5d5fe1416721eb4fbe9f65d"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 46139,
+    "sha256": "f55a1fe223d8b16eb09b60f48a8c05f7acfa7968c816b0914900ce371e5bc775",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/54/542954ca-43b5-4fd0-abf6-13668bbaeef3/cover.0",
+        "bytes": 46139,
+        "sha": "d97851c9d261babb1365e5b819ca3962fe43ee2b"
+      }
+    ]
+  }
+}
