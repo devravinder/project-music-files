@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 184746593,
+      "usedBytes": 187792480,
       "full": false
     }
   ],
@@ -434,8 +434,22 @@
       "addedAt": "2026-11-12T08:30:25.444Z",
       "updatedAt": "2026-11-12T08:30:25.444Z",
       "manifest": "manifests/6b632027-494d-425e-ae93-3404294025a3.json"
+    },
+    {
+      "id": "a9138c99-067b-4c79-884e-ca0b343644a8",
+      "kind": "audio",
+      "title": "Aaduvari Matalaku-My3Songs.Com",
+      "artist": "Pawan Kalyan, Bhumika",
+      "album": "Khushi(2001)",
+      "duration": 185,
+      "mime": "audio/mpeg",
+      "bytes": 3015993,
+      "sha256": "f88a13e11335dc9779eccfadff5c12d13a4f51db1b71a27de5d2a1e45bd9bbbc",
+      "addedAt": "2026-11-12T08:30:25.145Z",
+      "updatedAt": "2026-11-12T08:30:25.145Z",
+      "manifest": "manifests/a9138c99-067b-4c79-884e-ca0b343644a8.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:38:24.693Z"
+  "updatedAt": "2026-11-12T08:38:37.081Z"
 }
