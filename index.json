@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 402259295,
+      "usedBytes": 407047099,
       "full": false
     }
   ],
@@ -952,8 +952,22 @@
       "addedAt": "2026-11-12T08:30:25.750Z",
       "updatedAt": "2026-11-12T08:30:25.750Z",
       "manifest": "manifests/08a8c440-fff2-4f7a-97bf-5d54ea4e7bf7.json"
+    },
+    {
+      "id": "a8a48243-d3db-4706-ab45-64690c2f7e40",
+      "kind": "audio",
+      "title": "Manohara",
+      "artist": "DRGM",
+      "album": "Cheli (2001)",
+      "duration": 296,
+      "mime": "audio/mpeg",
+      "bytes": 4767309,
+      "sha256": "e7293396807829d6b6660c3b35a633432c74a9230251c31ace2bbd5f3edecce3",
+      "addedAt": "2026-11-12T08:30:25.461Z",
+      "updatedAt": "2026-11-12T08:30:25.461Z",
+      "manifest": "manifests/a8a48243-d3db-4706-ab45-64690c2f7e40.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:47:34.275Z"
+  "updatedAt": "2026-11-12T08:47:47.280Z"
 }
