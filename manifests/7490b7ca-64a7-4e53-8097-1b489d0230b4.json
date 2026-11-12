@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "7490b7ca-64a7-4e53-8097-1b489d0230b4",
+  "media": {
+    "name": "Raajiva lochana.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 7307230,
+    "sha256": "2aa952a0afff1f4f55f1513149c74a1f292fd80fa0fa976e481ff885ffc9bcec",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/74/7490b7ca-64a7-4e53-8097-1b489d0230b4/media.0",
+        "bytes": 7307230,
+        "sha": "c587910abca4ee4200aa8873e561df75855a8536"
+      }
+    ]
+  }
+}
