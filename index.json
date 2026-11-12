@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 558405042,
+      "usedBytes": 563345203,
       "full": false
     }
   ],
@@ -1344,8 +1344,22 @@
       "addedAt": "2026-11-12T08:30:24.174Z",
       "updatedAt": "2026-11-12T08:30:24.174Z",
       "manifest": "manifests/a570b4b9-156a-4213-824e-e2f2361577fa.json"
+    },
+    {
+      "id": "e6c29bbd-430d-4d03-bb51-617c234e8102",
+      "kind": "audio",
+      "title": "You & I-My3Songs.Com",
+      "artist": "Pawan Kalyan, Ileana",
+      "album": "Jalsa(2008)",
+      "duration": 301,
+      "mime": "audio/mpeg",
+      "bytes": 4894022,
+      "sha256": "bc5b3442f22339946494328d0db2b5a310042439261ca2d9640b39328f893d61",
+      "addedAt": "2026-11-12T08:30:24.447Z",
+      "updatedAt": "2026-11-12T08:30:24.447Z",
+      "manifest": "manifests/e6c29bbd-430d-4d03-bb51-617c234e8102.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:54:40.489Z"
+  "updatedAt": "2026-11-12T08:54:53.698Z"
 }
