@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "5a3a8367-b349-4a60-bd2a-e8fa93e2421b",
+  "media": {
+    "name": "02 Jaamu Rathiri - SenSongsMp3.co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4847117,
+    "sha256": "83bbfdcd7f1aaea128b61dc9cf25b3ea8a42f1de2f701fc77fbd98fc2749cea3",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/5a/5a3a8367-b349-4a60-bd2a-e8fa93e2421b/media.0",
+        "bytes": 4847117,
+        "sha": "d2ef231af2ca983f3ab08b8b98dea2fd53ef0b35"
+      }
+    ]
+  }
+}
