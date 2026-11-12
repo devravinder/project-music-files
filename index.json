@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 204882249,
+      "usedBytes": 210258513,
       "full": false
     }
   ],
@@ -504,8 +504,22 @@
       "addedAt": "2026-11-12T08:30:26.046Z",
       "updatedAt": "2026-11-12T08:30:26.046Z",
       "manifest": "manifests/2dfea10a-663f-479a-8596-0bdc6dd21077.json"
+    },
+    {
+      "id": "49d34782-a9e0-469f-9b2c-56b3ae6315f4",
+      "kind": "audio",
+      "title": "Brathakaali-My3Songs.In",
+      "artist": "Devi Sri Prasad",
+      "album": "Oosaravelli(2011)",
+      "duration": 328,
+      "mime": "audio/mpeg",
+      "bytes": 5319326,
+      "sha256": "792259ee30d9ac931043068252946f40479e04fc9380200e6e55336a75a8fe89",
+      "addedAt": "2026-11-12T08:30:25.671Z",
+      "updatedAt": "2026-11-12T08:30:25.671Z",
+      "manifest": "manifests/49d34782-a9e0-469f-9b2c-56b3ae6315f4.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:39:24.085Z"
+  "updatedAt": "2026-11-12T08:39:37.190Z"
 }
