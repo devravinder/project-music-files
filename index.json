@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 246070305,
+      "usedBytes": 252145323,
       "full": false
     }
   ],
@@ -630,8 +630,22 @@
       "addedAt": "2026-11-12T08:30:24.552Z",
       "updatedAt": "2026-11-12T08:30:24.552Z",
       "manifest": "manifests/e334a1ab-ae77-4261-8627-bdf31c87147b.json"
+    },
+    {
+      "id": "d9a77722-72fa-4632-a6ff-30179ec5f262",
+      "kind": "audio",
+      "title": "Ekkada Ekkada-SenSongsMp3.Co",
+      "artist": "Mahesh Babu, Sonali Bindre",
+      "album": "Murari(2001)",
+      "duration": 373,
+      "mime": "audio/mpeg",
+      "bytes": 6038955,
+      "sha256": "48f8cda591971b57452bd653a5fa66b9474c122314214ff9821739df267ca464",
+      "addedAt": "2026-11-12T08:30:25.979Z",
+      "updatedAt": "2026-11-12T08:30:25.979Z",
+      "manifest": "manifests/d9a77722-72fa-4632-a6ff-30179ec5f262.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:41:20.203Z"
+  "updatedAt": "2026-11-12T08:41:33.517Z"
 }
