@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "012e8536-a09a-4fbc-9d4f-13dab73682c7",
+  "media": {
+    "name": "Rangola Ola - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4886923,
+    "sha256": "d3570e0805ab882b5e1a46e602cef5326b16f470476509f6fb99aefbca5aa7df",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/01/012e8536-a09a-4fbc-9d4f-13dab73682c7/media.0",
+        "bytes": 4886923,
+        "sha": "24a0c700451b11ae176ee1789dba9996823f9a57"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 275219,
+    "sha256": "26ef49f144b6ece54c6287800918d5d98287575b73f6b2d7fce4f230bda53492",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/01/012e8536-a09a-4fbc-9d4f-13dab73682c7/cover.0",
+        "bytes": 275219,
+        "sha": "c95d8778a4382046562da893c99671f29bc348f4"
+      }
+    ]
+  }
+}
