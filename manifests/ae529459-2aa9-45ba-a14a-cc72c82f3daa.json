@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "ae529459-2aa9-45ba-a14a-cc72c82f3daa",
+  "media": {
+    "name": "04 - Paruvam Vanaga - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5084098,
+    "sha256": "0affbdb14450f932f2cf26b6f27a06c344354912511b5253ee1e2d70243e138b",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/ae/ae529459-2aa9-45ba-a14a-cc72c82f3daa/media.0",
+        "bytes": 5084098,
+        "sha": "d4da5f9231af3f12cdd00601caa44a3d9eeccf0c"
+      }
+    ]
+  }
+}
