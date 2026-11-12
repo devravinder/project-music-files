@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 55185564,
+      "usedBytes": 59618211,
       "full": false
     }
   ],
@@ -140,8 +140,22 @@
       "addedAt": "2026-11-12T08:30:25.339Z",
       "updatedAt": "2026-11-12T08:30:25.339Z",
       "manifest": "manifests/5f263544-bef0-49b2-9794-d1acbcaaf460.json"
+    },
+    {
+      "id": "d05089b2-4ddc-4c02-b39e-0e2a8f39d174",
+      "kind": "audio",
+      "title": "02 - Manasa Mannichamma -(www.SenSongsMp3.co)",
+      "artist": "Karthik, Chorus",
+      "album": "Aadavari Matalaku Ardhale Verule (2007)",
+      "duration": 274,
+      "mime": "audio/mpeg",
+      "bytes": 4412152,
+      "sha256": "344d1e5d593ce29bfdf17b62c74d0c05dd0ee02e886f0b29de692d3c151a0176",
+      "addedAt": "2026-11-12T08:30:25.070Z",
+      "updatedAt": "2026-11-12T08:30:25.070Z",
+      "manifest": "manifests/d05089b2-4ddc-4c02-b39e-0e2a8f39d174.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:33:50.329Z"
+  "updatedAt": "2026-11-12T08:34:02.920Z"
 }
