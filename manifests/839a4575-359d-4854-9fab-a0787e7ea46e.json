@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "839a4575-359d-4854-9fab-a0787e7ea46e",
+  "media": {
+    "name": "07 - Pallavinchu Toli Raagame - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4117777,
+    "sha256": "ab80fc241c21050de768b8428e5b324004ff3922f275cf5d3b771b5cc64e5f7c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/83/839a4575-359d-4854-9fab-a0787e7ea46e/media.0",
+        "bytes": 4117777,
+        "sha": "61a406ba6e812e9ac1b6d81ed700c03cb32e7423"
+      }
+    ]
+  }
+}
