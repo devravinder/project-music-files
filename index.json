@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "project-music-files",
-      "usedBytes": 9530391,
+      "usedBytes": 15050271,
       "full": false
     }
   ],
@@ -42,8 +42,22 @@
       "addedAt": "2026-11-12T08:30:26.064Z",
       "updatedAt": "2026-11-12T08:30:26.064Z",
       "manifest": "manifests/22033aae-6357-4571-972d-d60517458b22.json"
+    },
+    {
+      "id": "575cff21-f937-461a-9359-0f1f2cd253bd",
+      "kind": "audio",
+      "title": "01 - Enduko Emo",
+      "artist": "Alaap Raju",
+      "album": "Rangam (2011)",
+      "duration": 332,
+      "mime": "audio/mpeg",
+      "bytes": 5422236,
+      "sha256": "11e6d6d37956a6c622cbaae412e5f7d577f66c5ca4fcf04a961c49c9b6e97207",
+      "addedAt": "2026-11-12T08:30:25.692Z",
+      "updatedAt": "2026-11-12T08:30:25.692Z",
+      "manifest": "manifests/575cff21-f937-461a-9359-0f1f2cd253bd.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-12T08:31:29.014Z"
+  "updatedAt": "2026-11-12T08:31:42.117Z"
 }
