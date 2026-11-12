@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "d27aaf69-e99b-4ab2-b09d-13c03f6c8b8d",
+  "media": {
+    "name": "01 - Yemaindhi Ee Vela - SenSongsMp3.co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5168654,
+    "sha256": "e119254846279ff4b7202069dad2a4dda8949c834dd694c5b2d6d3a3b5da3ad2",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/d2/d27aaf69-e99b-4ab2-b09d-13c03f6c8b8d/media.0",
+        "bytes": 5168654,
+        "sha": "df632ce12799cb8ab9a51b887c3948712356e2cc"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 20495,
+    "sha256": "e0e4b8b700a463dd86d54da03dc82ae5997508873a1a8545891e607b3c60766d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "project-music-files",
+        "path": "data/d2/d27aaf69-e99b-4ab2-b09d-13c03f6c8b8d/cover.0",
+        "bytes": 20495,
+        "sha": "13cb9c6450dcd10ceafb175957d9818bbfecea10"
+      }
+    ]
+  }
+}
