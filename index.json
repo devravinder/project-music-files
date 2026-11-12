@@ -1,0 +1,20 @@
+{
+  "app": "madhuram",
+  "schemaVersion": 1,
+  "role": "library",
+  "config": {
+    "maxFileBytes": 52428800,
+    "maxRepoBytes": 838860800
+  },
+  "repos": [
+    {
+      "name": "project-music-files",
+      "usedBytes": 0,
+      "full": false
+    }
+  ],
+  "currentRepo": "project-music-files",
+  "tracks": [],
+  "sources": [],
+  "updatedAt": "2026-11-12T08:27:30.932Z"
+}
